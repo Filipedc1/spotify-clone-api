@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpotifyClone.Api", "SpotifyCloneApi\SpotifyClone.Api.csproj", "{E165FE1E-207A-4C96-AF87-FB0E11129B8B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpotifyClone.Core", "SpotifyClone.Core\SpotifyClone.Core.csproj", "{B13C053E-7593-4977-AAAC-C04BADD12E6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E165FE1E-207A-4C96-AF87-FB0E11129B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E165FE1E-207A-4C96-AF87-FB0E11129B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E165FE1E-207A-4C96-AF87-FB0E11129B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E165FE1E-207A-4C96-AF87-FB0E11129B8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B13C053E-7593-4977-AAAC-C04BADD12E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B13C053E-7593-4977-AAAC-C04BADD12E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B13C053E-7593-4977-AAAC-C04BADD12E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B13C053E-7593-4977-AAAC-C04BADD12E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1DEAAF6-A627-4279-A2F1-3C71B3C6F37A}
+	EndGlobalSection
+EndGlobal
